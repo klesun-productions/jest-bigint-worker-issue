@@ -1,0 +1,15 @@
+{
+  "name": "jest-bigint-worker-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.5"
+  },
+  "scripts": {
+    "test": "jest --no-cache --verbose"
+  },
+  "author": "klesun",
+  "license": "ISC"
+}
