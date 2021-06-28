@@ -1,3 +1,4 @@
+Created for https://github.com/facebook/jest/issues/11617
 
 Steps to reproduce the issue:
 
